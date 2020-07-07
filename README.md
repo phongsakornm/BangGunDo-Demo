@@ -47,4 +47,4 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 ## Deploy Code to NETLIFY
-URL DEMO : https://www.banggundo.ml/
+URL DEMO : https://www.banggundo.net/
